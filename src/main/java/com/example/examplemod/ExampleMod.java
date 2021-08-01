@@ -45,6 +45,8 @@ public class ExampleMod
         BlockRegistry.BLOCKS.register(FMLJavaModLoadingContext.get().getModEventBus());
         TileEntityRegistry.TILE_ENTITIES.register(FMLJavaModLoadingContext.get().getModEventBus());
         ContainerTypeRegistry.CONTAINER.register(FMLJavaModLoadingContext.get().getModEventBus());
+
+        System.out.println("testing");
     }
 
     private void setup(final FMLCommonSetupEvent event)
