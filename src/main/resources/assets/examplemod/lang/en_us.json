@@ -1,0 +1,7 @@
+{
+  "cmd.examplemod.show_speed_lvl" : "速度等级：%d",
+  "tile.gae_oven.gui.name": "gae oven",
+  "hud.player_speed_lvl.string" : "速度等级：%d",
+  "cap.item.lvl.name" : "物品等级：%d",
+  "extra.damage.attack" : "造成了 %d 的额外伤害！"
+}

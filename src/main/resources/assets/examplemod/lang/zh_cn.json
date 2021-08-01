@@ -1,0 +1,9 @@
+{
+  "item.examplemod_green_apple" : "青苹果",
+  "item.examplemod_green_apple_sword" : "青苹果剑",
+  "item.examplemod_green_apple_chestplate" :"青苹果胸甲",
+  "itemGroup.example_mod": "imz example mod",
+  "tile.gae_oven.gui.name": "gae oven"
+
+
+}
